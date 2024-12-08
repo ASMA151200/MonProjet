@@ -1,1 +1,1 @@
-"Ce projet est r‚alis‚ par Ousmane Ba pour apprendre Git." 
+"Ce projet est rÃ©alisÃ© par Ousmane Ba pour apprendre Git." 
