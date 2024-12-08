@@ -1,0 +1,14 @@
+Instructions pour exécuter le code.py :
+
+1. Assurez-vous que Python est installé sur votre machine.
+   Vous pouvez vérifier cela en exécutant la commande `python --version` dans votre terminal.
+
+2. Téléchargez ou clonez ce projet sur votre ordinateur.
+
+3. Ouvrez un terminal dans le répertoire contenant le fichier `code.py`.
+
+4. Exécutez le fichier Python en utilisant la commande suivante :
+   python code.py
+
+5. Le programme affichera la somme de 3 et 5.
+
